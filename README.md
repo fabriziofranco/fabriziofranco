@@ -50,7 +50,7 @@ Markdown     44 mins         ███▒░░░░░░░░░░░░░
 CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 <!--END_SECTION:waka-->
-🚧 **My Todoist Stats:**
+🚧 **I'm currently working in:**
 <!-- TODO-IST:START -->
 🏆  7,600 Karma Points           
 🌸  Completed 0 tasks today           
