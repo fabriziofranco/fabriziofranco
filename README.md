@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img src=https://icons-for-free.com/iconfiles/png/512/kenobi+jedi+obi+++wan+kenobi+star+wars+icon-1320166750126849595.png" width="25px">
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img src="https://icons-for-free.com/iconfiles/png/512/kenobi+jedi+obi+++wan+kenobi+star+wars+icon-1320166750126849595.png" width="30px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
