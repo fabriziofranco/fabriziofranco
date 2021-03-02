@@ -61,5 +61,5 @@ CSS          13 mins         █░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriziofranco&show_icons=true&theme=gotham" alt="fabriziofranco" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriziofranco&show_icons=true&theme=dark" alt="fabriziofranco" />
  
