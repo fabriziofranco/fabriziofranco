@@ -41,7 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 <!-- -->
-
+<!-- 
 
 <!-- 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -52,7 +52,7 @@ JSON         54 mins         ████░░░░░░░░░░░░░
 Markdown     44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> -->
 🚧 **I'm currently working in:**
 <!-- TODO-IST:START -->
 🏆  7,600 Karma Points           
