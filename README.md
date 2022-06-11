@@ -12,21 +12,16 @@
   <img align="left" alt="Facebook" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/facebook-logo-icone.png" />
 </a>
 
-
-
 <br />
 
-<!-- Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
+I am Fabrizio Franco, outstanding Computer Science student in UTEC. I have 2 years of experience as teaching assistant in Computer Science courses. I currently work as intern data scientist. At work I develop clustering and predictive AI models in BCP, the Peruvian bank with biggest advanced analytics team. As free-lancer software engineer I take great care in the experience, architecture, and code quality of the projects I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help.
 - 📫 You can reach by email: fabrizio.franco@utec.edu.pe
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
-
+<!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)-->
 **Languages and Frameworks:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
