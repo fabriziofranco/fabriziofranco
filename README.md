@@ -2,8 +2,8 @@
 <a href="https://www.instagram.com/fabriziofrancoa/">
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/fabriziofrancoa/">
+  <img align="left" alt="Facebook" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/facebook-logo-icone.png" />
 </a>
 <a href="https://www.linkedin.com/in/fabriziofrancoa/">
   <img align="left" alt="Fabrizio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
