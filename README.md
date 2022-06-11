@@ -1,13 +1,17 @@
 ### Hello there <img src="https://icons-for-free.com/iconfiles/png/512/kenobi+jedi+obi+++wan+kenobi+star+wars+icon-1320166750126849595.png" width="40px">
-<a href="https://www.instagram.com/fabriziofrancoa/">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
-</a>
-<a href="https://www.facebook.com/fabriziofrancoa/">
-  <img align="left" alt="Facebook" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/facebook-logo-icone.png" />
-</a>
+
 <a href="https://www.linkedin.com/in/fabriziofrancoa/">
   <img align="left" alt="Fabrizio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://www.instagram.com/fabriziofrancoa/">
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
+</a>
+
+<a href="https://www.facebook.com/fabriziofrancoa/">
+  <img align="left" alt="Facebook" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/facebook-logo-icone.png" />
+</a>
+
 
 
 <br />
@@ -19,8 +23,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 💬 Ask me about anything, I am happy to help.
+- 📫 You can reach by email: fabrizio.franco@utec.edu.pe
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 **Languages and Frameworks:**  
