@@ -1,6 +1,6 @@
 ### Hello there <img src="https://icons-for-free.com/iconfiles/png/512/kenobi+jedi+obi+++wan+kenobi+star+wars+icon-1320166750126849595.png" width="40px">
 <a href="https://www.instagram.com/fabriziofrancoa/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
