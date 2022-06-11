@@ -46,10 +46,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🌸  Completed 0 tasks today           
 ✅  Completed 598 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END --> -->
+<!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+📈 My GitHub Stats in 2022
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriziofranco&show_icons=true&theme=dark" alt="fabriziofranco" />
 
