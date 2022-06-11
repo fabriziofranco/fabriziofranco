@@ -12,7 +12,8 @@
   <img align="left" alt="Facebook" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/facebook-logo-icone.png" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 I am Fabrizio Franco, outstanding Computer Science student in UTEC. I have 2 years of experience as teaching assistant in Computer Science courses. I currently work as intern data scientist. At work I develop clustering and predictive AI models in BCP, the Peruvian bank with biggest advanced analytics team. As free-lancer software engineer I take great care in the experience, architecture, and code quality of the projects I build.
 
@@ -46,6 +47,7 @@ I am Fabrizio Franco, outstanding Computer Science student in UTEC. I have 2 yea
 💻  Neural networks academic projects.      
 📱  Virtual reality / Augmented reality applications.     
 <!-- TODO-IST:END -->
+<br/>
 
 📈 My GitHub Stats in 2022
 
