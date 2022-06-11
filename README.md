@@ -49,7 +49,7 @@ I am Fabrizio Franco, outstanding Computer Science student in UTEC. I have 2 yea
 <!-- TODO-IST:END -->
 <br/>
 
-📈 My GitHub Stats in 2022
+📈 **My GitHub Stats in 2022:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriziofranco&show_icons=true&theme=dark" alt="fabriziofranco" />
 
