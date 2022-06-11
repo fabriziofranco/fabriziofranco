@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-I am Fabrizio Franco, outstanding Computer Science student in UTEC. I have 2 years of experience as teaching assistant in Computer Science courses. I currently work as intern data scientist. At work I develop clustering and predictive AI models in BCP, the Peruvian bank with biggest advanced analytics team. As free-lancer software engineer I take great care in the experience, architecture, and code quality of the projects I build.
+I am Fabrizio Franco, outstanding Computer Science student in UTEC. I have 2 years of experience as teaching assistant in Computer Science courses. I currently work as intern data scientist. At work I develop clustering and predictive AI models for BCP, the Peruvian bank with biggest advanced analytics team. Also, as free-lancer software engineer I take great care in the experience, architecture, and code quality of the projects I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
