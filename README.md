@@ -1,7 +1,7 @@
 ### Hello there <img src="https://icons-for-free.com/iconfiles/png/512/kenobi+jedi+obi+++wan+kenobi+star+wars+icon-1320166750126849595.png" width="40px">
 
 <a href="https://www.linkedin.com/in/fabriziofrancoa/">
-  <img align="left" alt="Fabrizio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Fabrizio's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 <a href="https://www.instagram.com/fabriziofrancoa/">
