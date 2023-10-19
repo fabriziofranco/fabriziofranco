@@ -49,7 +49,7 @@ I am Fabrizio Franco, as free-lancer software engineer I take great care in the 
 <!-- TODO-IST:END -->
 <br/>
 
-📈 **My GitHub Stats in 2022:**
+<!--📈 **My GitHub Stats in 2022:**--->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriziofranco&show_icons=true&theme=dark" alt="fabriziofranco" />
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriziofranco&show_icons=true&theme=dark" alt="fabriziofranco" /> -->
 
