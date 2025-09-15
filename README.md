@@ -43,9 +43,9 @@ I am Fabrizio Franco, as free-lancer software engineer I take great care in the 
 
 <!--🚧 **I'm currently working in:**
 <!-- TODO-IST:START -->
-📊  Machine learning monitoring software.          
-💻  Neural networks academic projects.      
-📱  Virtual reality / Augmented reality applications.     
+<!--📊  Machine learning monitoring software.          
+<!--<!--💻  Neural networks academic projects.      
+<!--📱  Virtual reality / Augmented reality applications.     
 <!-- TODO-IST:END -->
 <!--<br/>
 
