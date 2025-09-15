@@ -21,7 +21,7 @@ I am Fabrizio Franco, as free-lancer software engineer I take great care in the 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help.
-- 📫 You can reach by email: fabrizio.franco@utec.edu.pe
+- 📫 You can reach by email: fabrizioframa@gmail.com
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)-->
 **Languages and Frameworks:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -41,13 +41,13 @@ I am Fabrizio Franco, as free-lancer software engineer I take great care in the 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
-🚧 **I'm currently working in:**
+<!--🚧 **I'm currently working in:**
 <!-- TODO-IST:START -->
 📊  Machine learning monitoring software.          
 💻  Neural networks academic projects.      
 📱  Virtual reality / Augmented reality applications.     
 <!-- TODO-IST:END -->
-<br/>
+<!--<br/>
 
 <!--📈 **My GitHub Stats in 2022:**--->
 
